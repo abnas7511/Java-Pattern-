@@ -6,29 +6,29 @@ This repository contains various java pattern programs that demonstrate how to p
 
 This repository also contains various star patterns that you can explore and learn from. Some of them are
 
-- Right Triangle (Pattern1.java): A pattern that prints a right-angled triangle shape using stars.
+- Right Triangle (pattern1.java): A pattern that prints a right-angled triangle shape using stars.
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output1.png" alt="img"/>
-- Diamond Shape Pattern: A pattern that prints a diamond shape using stars.
+- Diamond Shape Pattern (pattern6.java): A pattern that prints a diamond shape using stars.
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output4.png" alt="img"/>
-- Downward Triangle Star (Pattern3.java): A pattern that prints a right-angled triangle shape using stars downwards.
+- Downward Triangle Star (pattern3.java): A pattern that prints a right-angled triangle shape using stars downwards.
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output5.png" alt="img"/>
-- Right Pascal's Triangle
+- Right Pascal's Triangle (pattern5.java)
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output9.png" alt="img"/>
--Square Pattern: A pattern that prints a square shape using stars.
-<img src="patternimages/pattern1.java - patterns - Visual Studio Code 30-04-2023 11_02_04" alt="img"/>
+-Square (pattern2.java): A pattern that prints a square shape using stars.
+<img src="patternsimages/pattern1.java - patterns - Visual Studio Code 30-04-2023 11_02_04.png" alt="img"/>
 
 ## Number Patterns
 
 This repository also contains various number patterns that you can explore and learn from. Some of them are:
 
-- Simple number program
+- Simple number program (pattern4.java)
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
-- Diamond Pattern Program
-<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
--pattern
-<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
--pattern
-<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
+- Diamond Pattern Program (pattern8.java)
+<img src="patternsimages/pattern1.java - patterns - Visual Studio Code 30-04-2023 11_02_26.png" alt="img"/>
+-pattern7.java
+<img src="patternsimages/pattern1.java - patterns - Visual Studio Code 30-04-2023 11_02_17.png" alt="img"/>
+-pattern9.java
+<img src="patternsimages/54.png" alt="img"/>
 
 ## How to Use This Repository
 
