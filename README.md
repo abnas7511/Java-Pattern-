@@ -15,7 +15,7 @@ This repository also contains various star patterns that you can explore and lea
 - Right Pascal's Triangle
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output9.png" alt="img"/>
 -Square Pattern: A pattern that prints a square shape using stars.
-
+<img src="patternimages/pattern1.java - patterns - Visual Studio Code 30-04-2023 11_02_04" alt="img"/>
 
 ## Number Patterns
 
@@ -24,6 +24,12 @@ This repository also contains various number patterns that you can explore and l
 - Simple number program
 <img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
 - Diamond Pattern Program
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
+-pattern
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
+-pattern
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
+
 ## How to Use This Repository
 
 To use this repository, you need to have JDK 8 or later installed on your machine. You also need to have an IDE such as VScode.
