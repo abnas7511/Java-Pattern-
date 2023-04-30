@@ -4,27 +4,26 @@ This repository contains various java pattern programs that demonstrate how to p
 
 ## Star Patterns
 
-This repository also contains various star patterns that you can explore and learn from. Some of them are:
+This repository also contains various star patterns that you can explore and learn from. Some of them are
 
-- Right Triangle Pattern: A pattern that prints a right-angled triangle shape using stars.
+- Right Triangle (Pattern1.java): A pattern that prints a right-angled triangle shape using stars.
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output1.png" alt="img"/>
 - Diamond Shape Pattern: A pattern that prints a diamond shape using stars.
-- Downward Triangle Star Pattern: A pattern that prints a right-angled triangle shape using stars downwards.
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output4.png" alt="img"/>
+- Downward Triangle Star (Pattern3.java): A pattern that prints a right-angled triangle shape using stars downwards.
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output5.png" alt="img"/>
 - Right Pascal's Triangle
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output9.png" alt="img"/>
+-Square Pattern: A pattern that prints a square shape using stars.
 
-You can find more details and examples of these and other star patterns in this folder: [StarPatterns](./StarPatterns).
 
 ## Number Patterns
 
 This repository also contains various number patterns that you can explore and learn from. Some of them are:
 
-- Number Triangle Pattern: A pattern that prints a triangle shape using numbers.
-- Number-Increasing Pyramid Pattern: A pattern that prints a pyramid shape using increasing numbers.
-- Number-Increasing Reverse Pyramid Pattern: A pattern that prints a reverse pyramid shape using increasing numbers.
-- Number-Changing Pyramid Pattern: A pattern that prints a pyramid shape using changing numbers.
-- Zero-One Triangle Pattern: A pattern that prints a triangle shape using zeros and ones.
-
-You can find more details and examples of these and other number patterns in this folder: [NumberPatterns](./NumberPatterns).
-
+- Simple number program
+<img src="https://static.javatpoint.com/core/images/how-to-print-pattern-in-java-output16.png" alt="img"/>
+- Diamond Pattern Program
 ## How to Use This Repository
 
 To use this repository, you need to have JDK 8 or later installed on your machine. You also need to have an IDE such as VScode.
